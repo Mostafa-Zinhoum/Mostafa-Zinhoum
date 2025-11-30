@@ -1,13 +1,4 @@
-## Hi there 👋
-
-<!--
-**Mostafa-Zinhoum/Mostafa-Zinhoum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...# 💫 About Me:
+# 💫 About Me:
 I am a forward-thinking .NET Software Engineering Leader with over 15 years of experience designing, developing, and delivering enterprise-scale software solutions. Proven expertise in .NET Core, ASP.NET Web API, SQL Server, and Angular, with solid experience in backend architecture, clean code practices, and team leadership.
 
 
@@ -28,9 +19,3 @@ I am a forward-thinking .NET Software Engineering Leader with over 15 years of e
 [![](https://visitcount.itsvg.in/api?id= Mostafa-Zinhoum&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
